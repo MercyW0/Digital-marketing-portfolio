@@ -5,3 +5,6 @@
 ### Website Evaluation Based on UX/UI Design
 - File: Website-UXUI-Evaluation.pdf
 - What this assignment asked of me: Evaluate three popular websites, Airbnb, CNN, and Nike, through the lens of UX/UI design principles. Suggest improvements for each website to enhance user experience and design.
+### Developing a Brand Identity & Digital Storytelling 
+- File: Developing-a-Brand-Identity.pdf
+- What this assignment asked of me: Select a brand and create a short narrative that embodies its identity, mission, vision, and values. Creatively introduce a product/service, showcasing how it aligns with the brand’s identity and addresses a specific problem or need.
