@@ -8,3 +8,6 @@
 ### Developing a Brand Identity & Digital Storytelling 
 - File: Developing-a-Brand-Identity.pdf
 - What this assignment asked of me: Select a brand and create a short narrative that embodies its identity, mission, vision, and values. Creatively introduce a product/service, showcasing how it aligns with the brand’s identity and addresses a specific problem or need.
+### Creating an Black Friday Email Template
+- File: Creating-an-Email-Campaign.pdf
+- What this assignment asked of me: Launch a targeted email marketing campaign that maximize sales during the 'Black Friday' shopping period. Design an email that feels personalized and irresistible, ensuring every element, including the headline, imagery, copy, and CTA, works together to drive clicks and conversions.
